@@ -38,8 +38,6 @@ supply_chain/
 - Parsed datetime columns and handled missing values
 
 ### 2. Feature Engineering
-- `Delay` = Real shipping days − Scheduled shipping days
-- `Is_Delayed` = Binary flag (Delay > 0)
 - `Profitability Flag` = Profit / Loss / Breakeven per order
 - Temporal features: order month, day of week, hour
 
